@@ -20,4 +20,3 @@
 <p>
 	Thanks.
 </p>
-Does it work?
