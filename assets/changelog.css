@@ -1,0 +1,47 @@
+body {
+        font-family: Trebuchet MS, sans-serif;
+        font-size: small;
+}
+li {
+        list-style-type: lower-roman;
+        padding: 0 2px 0 10px;
+}
+
+
+#header {
+	width: 800px;
+	border-bottom: 1px solid gray;
+	padding-bottom: 15px;
+}
+.head {
+        font-size: 36px;
+        font-weight: bold;
+}
+
+
+.ib {
+        font-size: 18px;
+        font-weight: bold;
+        font-style: italic;
+}
+
+
+.log {
+        width: 800px;
+	border-bottom: 1px solid gray;
+	padding: 30px 0 25px 0;
+}
+
+
+.tdl {	text-decoration: line-through; }
+
+a { text-decoration: none; color: #000000; }
+a:hover { text-decoration: underline; color: #000000; }
+
+#index {
+	width: 160px;
+	margin-left: 840px;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	border: 1px solid gray;
+}

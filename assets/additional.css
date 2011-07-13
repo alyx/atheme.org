@@ -1,0 +1,44 @@
+.heading {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.subheading {
+	font-size: 12px;
+	text-align: center;
+}
+.cli {
+	font-family: Courier New, Courier, monospace;
+	padding-left: 20px;
+}
+
+#projects-listing ul {
+	padding: 0 0 0 20px;
+}
+#projects-listing li {
+	padding-bottom: 8px;
+	list-style-type: none;
+}
+
+#features li {
+	padding: 0 4px 0 20px;
+	list-style-type: lower-roman;
+}
+
+#dl {
+	text-align: center;
+}
+#dl ul {
+        margin-top: 0;
+	padding-top: 0;
+	line-height: normal;
+	list-style: none;
+	padding: 1px 0 1px 0;
+}
+#dl li {
+	display: inline;
+        list-style-type: none;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+	

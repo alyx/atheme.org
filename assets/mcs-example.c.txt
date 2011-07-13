@@ -1,0 +1,29 @@
+/* 
+ * this is a libmcs example
+ * 2010, The Atheme Project
+ */
+
+#include <libmcs/mcs.h>
+
+int main(int argc, const char *argv[])
+{
+   mcs_handle_t *mcs;
+   char *foo;
+
+   mcs_init();
+
+   mcs = mcs_new("fooapp");
+   foo = "fooapp rocks!";
+
+   mcs_set_string(mcs, "general", "infoline", foo);
+
+   mcs_get_string(mcs, "general", "infoline", &foo);
+
+   printf("%s\n", foo);
+
+   mowgli_object_unref(mcs);
+
+   mcs_fini();
+
+   return 0;
+}

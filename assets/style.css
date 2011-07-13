@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	background: #FFFFFF;
+	/* background: -moz-linear-gradient(top, #CCCCCC, #FFFFFF) no-repeat; */
+	color: #000000;
+	/* font-family: Arial, Helvetica, sans-serif; fuck helvetica */
+	font-family: Trebuchet MS, sans-serif;
+	font-size: 12px;
+	/* text-shadow: #CCCCCC 0.5px 0.5px 1px; */
+}
+#wrapper {
+	margin: 0 auto;
+	margin-bottom: 0;
+	width: 850px;
+	/* border: 1px #003333 solid; */
+	/* border-radius: 12px; */
+}
+#header {
+	margin: 10px auto;
+	margin-bottom: 0;
+	width: 850px;
+	text-align: center;
+}
+#navbar {
+	margin: 20px auto;
+	margin-bottom: 0;
+	width: 850px;
+	text-align: center;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	padding: 2px 0 2px 0;
+}
+#navbar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+#navbar li {
+	display: inline;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+#body {
+	margin: 30px auto;
+	margin-bottom: 0;
+	width: 850px;
+	text-align: left;
+}
+#footer {
+	margin: 40px auto;
+	margin-bottom: 0;
+	width: 850px;
+ 	border-top: 1px solid gray;
+}
+img {
+	border: 0;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted #000000;
+}
+
+.italics { font-style: italic; }
+.bold 	 { font-weight: bold;  }
+

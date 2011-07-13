@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>atheme.org changelog</title>
+<link rel="stylesheet" href="assets/changelog.css" type="text/css" media="all" />
+</head>
+
+<body>
+
+<div id="header">
+<span class="head">changelog</span><br />
+<span class="ib">backlog of modifications to atheme.org</span>
+</div>
+
+<div id="index">
+<span class="ib" style="font-size: 14px;">Index of Changes</span>
+<ul>
+	<li><a href="#JUL1311">July 13, 2011</a></li>
+	<li><a href="#JUN1511">June 15, 2011</a></li>
+	<li><a href="#JUN1311">June 13, 2011</a></li>
+	<li><a href="#MAY2311">May 23, 2011</a></li>
+        <li><a href="#AUG0110">August 1, 2010</a></li>
+        <li><a href="#JUL1410">July 14, 2010</a>
+        <li><a href="#JUN2910">June 29, 2010</a>
+        <li><a href="#JUN1310">June 13, 2010</a>
+        <li><a href="#APR2510">April 25, 2010</a>
+</ul>
+</div>
+
+<!-- start of data -->
+
+<div class="log" id="JUL1311">
+<strong>July 13, 2011 &mdash; sam</strong><br />
+<ul>
+        <li>migrated atheme.org to a vhost of the web.atheme.org server to accomodate hosting of atheme.net and possibly audacious-media-player.org</li>
+	<li>fixed a laundry list of broken shit that was overlooked</li>
+	<li>added cia.vc to the navbar</li>
+</ul>
+</div>
+
+<div class="log" id="JUN1511">
+<strong>June 15, 2011 &mdash; sam</strong><br />
+<ul>
+        <li>fixed redirection problem on index.php</li>
+</ul>
+</div>
+
+
+<div class="log" id="JUN1311">
+<strong>June 13, 2011 &mdash; sam</strong><br />
+<ul>
+	<li>changed 'Repository' link to git from hg.</li>
+	<li>changed various forgotten hg links to git</li>
+	<li>general website maintenence</li>
+	<li>replaced boring static copyright with php date()</li>
+	<li>changed layout of /projects</li>
+	<li>changed information on /contact and index</li>
+	<li>added unofficial projects and iris to /projects</li>
+</ul>
+</div>
+
+<div class="log" id="MAY2311">
+<strong>May 23, 2011 &mdash; jdhore</strong><br />
+<ul>
+ 	<li>updated website copyright to 2011</li>
+	<li>changed all the hg repos to point at Git as Atheme projects are on Git now</li>
+</ul>
+</div>
+
+<div class="log" id="AUG0110">
+<strong>August 1, 2010 &mdash; sam</strong><br />
+<ul>
+	<li>fixed broken links on the front page</li>
+	<li>added some text to the front page within regard to the todo and changelog pages</li>
+	<li>added NASPRO to the projects page</li>
+ 	<li>added the index of changes box to the side of this page</li>
+</ul>
+</div>
+
+<div class="log" id="JUL1410">
+<strong>July 14, 2010 &mdash; sam</strong><br />
+<ul>
+	<li>added libguess to the projects page</li>
+	<li>added libmcs to the projects page</li>
+	<li>updated charybdis</li>
+	<li>updated libmowgli</li>
+	<li>updated libmcs</li>
+</ul>
+</div>
+
+<div class="log" id="JUN2910">
+<strong>June 29, 2010 &mdash; sam</strong><br />
+<ul>
+        <li>added audacious-plugins to the projects page</li>
+</ul>
+</div>
+
+
+<div class="log" id="JUN1310">
+<strong>June 13, 2010 &mdash; sam</strong><br />
+<ul>
+	<li>edited the home page</li>
+        <li>determined some of the code for atheme.org is shitty &mdash; thinking of changing linking (?p=projects&sp=charybdis to /projects/charybdis, example)</li>
+	<li>spent a lot of time working on regex's and such for the redirects, and had zero luck with cherokee. the whole 'redirect' thing is on hold. deal with it.</li>
+	<li>added atheme-web to the projects page</li>
+</ul>
+</div>
+
+<div class="log" id="APR2510">
+<strong>April 25, 2010 &mdash; sam</strong><br />
+<ul>
+	<li>created the changelog</li>
+	<li>added the title() function to the website's source, allowing the title to say what page you're on (SO COOL DUDE)</li>
+	<li>created project page for libmowgli</li>
+	<li>changed assets/additional.css to work with libmowgli's page. turned #charybdis-dl into #dl</li>
+	<li>added assets/changelog.css</li>
+	<li>modified changelog to look as current</li>
+</ul>
+</div>
+
+<!-- end of data -->
+
+<!-- footer area -->
+&copy; atheme.org
+
+</body>
+</html>
