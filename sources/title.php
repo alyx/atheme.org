@@ -9,11 +9,11 @@ function title()
         {
                 if (($_GET["p"] == "projects") && (isset($_GET["sp"])))
                 {
-			echo $_GET["sp"] . " - The Atheme Project";
+			echo ucfirst(strtolower($_GET["sp"])) . " - The Atheme Project";
                 }
                 else
                 {
-			echo $_GET["p"] . " - The Atheme Project";
+			echo ucfirst(strtolower($_GET["p"])) . " - The Atheme Project";
                 }
         }
 	else
