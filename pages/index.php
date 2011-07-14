@@ -15,7 +15,7 @@
 	Alternatively, if you have an issue or a suggestion, you can open up an issue at <a href="http://jira.atheme.org/browse/WEB"><strong>at the bug tracker</strong></a> and it will be seen and taken care of promptly.
 </p>
 <p>
-	If you're interested, check out the todo link at the bottom for a list of things that might possibly get done maybe hopefully, as well as the changelog for the backlog of website changes.
+	If you're interested in tracking the development of the project's website, which is now apparently a subproject, head over to <a href="http://git.atheme.org/atheme.org">Git</a>.
 </p>
 <p>
 	Thanks.
