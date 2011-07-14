@@ -7,8 +7,8 @@ project channels are listed. In parenthesis, we've listed a few of the developer
 <ul>
 <li><a href="irc://irc.atheme.org/atheme"><span class="italics bold">#atheme</span></a> &mdash; Atheme Services (jilles, nenolod, jdhore, Aerdan)</li>
 <li><a href="irc://irc.atheme.org/charybdis"><span class="italics bold">#charybdis</span></a> &mdash; charybdis IRC daemon (jilles, nenolod)</li>
-<li><a href="irc://irc.atheme.org/audacious"><span class="italics bold">#audacious</span></a> &mdash; Audacious Media Player (nenolod)</li>
-<li><a href="irc://irc.atheme.org/iris"><span class="italics bold">#iris</span></a> &mdash; Iris Web IRC Client for Atheme</li>
+<li><a href="irc://irc.atheme.org/audacious"><span class="italics bold">#audacious</span></a> &mdash; Audacious Media Player (nenolod, jlindgren)</li>
+<li><a href="irc://irc.atheme.org/iris"><span class="italics bold">#iris</span></a> &mdash; Iris Web IRC Client for Atheme (Namegduf)</li>
 </ul>
 </p>
 
