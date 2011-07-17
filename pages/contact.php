@@ -2,7 +2,7 @@
 
 <p>
 Currently, IRC is the best way to get in touch with the individuals behind Atheme. You can find us on the <a href="http://www.staticbox.net">StaticBox network</a> via <a href="irc://irc.atheme.org"><strong>irc.atheme.org</strong></a>.
-We have multiple channels for our various projects. Below, they are listed. In parenthesis, we've listed a few of the developers' IRC usernames. If you'd prefer not to use a desktop IRC client, the web client is linked in the navigation bar above.
+We have multiple channels for our various projects. Below, they are listed. In parenthesis, we've listed a few of the key individuals' and developers' usernames. If you'd prefer not to use a desktop IRC client, the web client is linked in the navigation bar above.
 <ul>
 <li><a href="irc://irc.atheme.org/atheme-project"<span class="italics bold">#atheme-project</span></a> &mdash; Atheme Project (nenolod, jilles, jdhore, Aerdan, sam)</li>
 <li><a href="irc://irc.atheme.org/atheme"><span class="italics bold">#atheme</span></a> &mdash; Atheme Services (jilles, nenolod, jdhore, Aerdan)</li>
