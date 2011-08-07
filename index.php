@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="http://www.atheme.org/assets/style.css" type="text/css" media="all" />
 <link rel="stylesheet" href="http://www.atheme.org/assets/additional.css" type="text/css" media="all" />
 <meta name="keywords" content="ircd irc services atheme audacious2 libmowgli atheme-services nenolod samferry sam charybdis ratbox irssi patches scripts athemenet staticbox chatautism efnet freenode">
-<meta name="author" content="http://www.atheme.org">
+<meta name="author" content="The Atheme Project, atheme.org">
 </head>
 <body>
 <div id="wrapper">
@@ -32,7 +32,7 @@
 		<li><a href="http://confluence.atheme.org">Wiki</a></li>
 		<li><a href="http://jira.atheme.org">Bug Tracker</a></li>
 		<li><a href="http://distfiles.atheme.org">Files</a></li>
-		<li><a href="http://cia.vc">CIA.vc</a></li>
+		<li><a href="http://cia.vc">CIA</a></li>
 	</ul>
 	</div>
 

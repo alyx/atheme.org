@@ -15,7 +15,7 @@ We have multiple channels for our various projects. Below, they are listed. In p
 <p>
 As far as contact via email, we can be reached at the following:
 <ul>
-	<li>Issues with the website? Email <span class="italics bold">Sam Ferry</span> <strong><<a href="mailto:sam@atheme.org">sam@atheme.org</a>></strong></li>
-	<li>Issues with anything else? Email <span class="italics bold">William Pitcock</span> <strong><<a href="mailto:nenolod@atheme.org">nenolod@atheme.org</a>></strong></li>
+	<li><span class="italics bold">Sam Ferry</span> <strong><<a href="mailto:sam@atheme.org">sam@atheme.org</a>></strong></li>
+	<li><span class="italics bold">William Pitcock</span> <strong><<a href="mailto:nenolod@atheme.org">nenolod@atheme.org</a>></strong></li>
 </ul>
 </p>
