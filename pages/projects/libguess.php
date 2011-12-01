@@ -45,6 +45,7 @@
 	<strong>Downloads</strong>
 	<ul>
 	<li><a href="http://distfiles.atheme.org/libguess-1.0.tgz">1.0</a></li>
+	<li><a href="http://distfiles.atheme.org/libguess-1.1.tar.gz">1.1</a></li>
 	</ul>
 	</div>
 
