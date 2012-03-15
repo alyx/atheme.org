@@ -13,10 +13,10 @@ We have multiple channels for our various projects. Below, they are listed. In p
 </p>
 
 <p>
-As far as contact via email, we can be reached at the following:
+Click on the names below to reach them by email:
 <ul>
-	<li><strong><a href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=8Glnx5mxxXDvKpSdJbVA8Q==">Sam Ferry</a></strong></li>
-	<li><strong><a href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=MO_uHU5NMtzO7kY5286UVYEq6w0VN4oUnR_-D6edaaQ=">William Pitcock</a></strong></li>
+	<li><strong><a onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=8Glnx5mxxXDvKpSdJbVA8Q==', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=8Glnx5mxxXDvKpSdJbVA8Q==">Sam Ferry</a></strong> (Webmaster)</li>
+	<li><strong><a onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=MO_uHU5NMtzO7kY5286UVYEq6w0VN4oUnR_-D6edaaQ=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=MO_uHU5NMtzO7kY5286UVYEq6w0VN4oUnR_-D6edaaQ=">William Pitcock</a></strong> (Project Leader)</li>
 </ul>
 </p>
 
