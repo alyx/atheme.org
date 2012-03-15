@@ -78,7 +78,7 @@
 
 	<div id="footer">
 		<div style="float: left;"><? print(date("Y")); ?> &copy; Atheme. All rights reserved.</div>
-		<div style="float: right;"><a href="http://git.atheme.org/atheme.org/">changelog</a> &mdash; <a href="http://www.atheme.org/todo">to-do</a> &mdash; <a href="mailto:webmaster@atheme.org">webmaster</a></div>
+		<div style="float: right;"><a href="http://git.atheme.org/atheme.org/">changelog</a> &mdash; <a href="http://www.atheme.org/todo">to-do</a> &mdash; <a href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=UAOgf9DDXzj1xJpkX6wNUzEUGrnDZDs9Zz7-uSVHqqk=">webmaster</a></div>
 	</div>
 </div>
 </body>
