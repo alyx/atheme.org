@@ -20,4 +20,4 @@ As far as contact via email, we can be reached at the following:
 </ul>
 </p>
 
-test
+<?php echo recaptcha_mailhide_html ($mailhide_pubkey, $mailhide_privkey, "webmaster@atheme.org"); ?>
