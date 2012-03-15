@@ -1,3 +1,5 @@
+<?php require_once("../sources/recaptchalib.php"); ?>
+
 <div class="heading">Talk to Us</div>
 
 <p>
