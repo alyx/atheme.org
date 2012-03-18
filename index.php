@@ -11,32 +11,30 @@
 ?>
 <html>
 <head>
-<title><?php title(); ?></title>
-<link rel="stylesheet" href="http://www.atheme.org/assets/style.css" type="text/css" media="all" />
-<link rel="stylesheet" href="http://www.atheme.org/assets/additional.css" type="text/css" media="all" />
-<meta name="language" content="English">
-<meta http-equiv="expires" content="never">
-<meta name="author" content="Sam Ferry">
-<meta name="designer" content="Sam Ferry">
-<meta name="publisher" content="The Atheme Project">
-<meta name="copyright" content="The Atheme Project">
-<meta name="description" content="An open-source development collective, dedicated to creating powerful libraries and software for end-user benefit through collaboration and sophistication.">
-<meta name="keywords" content="the atheme project atheme.org atheme.net irc services charybdis charybdis-ircd ircd client git confluence jira CIA CIA.vc staticbox staticbox.net SystemInPlace nenolod samferry audacious audacious-plugins NASPRO atheme-services atheme-web iris libmowgli libguess MCS libaosd ShadowIRCd UnrealIRCd Debian Linux VPS freenode">
-<meta name="distribution" content="global">
-<meta name="robots" content="INDEX,FOLLOW">
-<script type="text/javascript">
+	<title><?php title(); ?></title>
+	<link rel="stylesheet" href="http://www.atheme.org/assets/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="http://www.atheme.org/assets/additional.css" type="text/css" media="all" />
+	<meta name="language" content="English">
+	<meta http-equiv="expires" content="never">
+	<meta name="author" content="Sam Ferry">
+	<meta name="designer" content="Sam Ferry">
+	<meta name="publisher" content="The Atheme Project">
+	<meta name="copyright" content="The Atheme Project">
+	<meta name="description" content="An open-source development collective, dedicated to creating powerful libraries and software for end-user benefit through collaboration and sophistication.">
+	<meta name="keywords" content="the atheme project atheme.org atheme.net irc services charybdis charybdis-ircd ircd client git confluence jira CIA CIA.vc staticbox staticbox.net SystemInPlace nenolod samferry audacious audacious-plugins NASPRO atheme-services atheme-web iris libmowgli libguess MCS libaosd ShadowIRCd UnrealIRCd Debian Linux VPS freenode">
+	<meta name="distribution" content="global">
+	<meta name="robots" content="INDEX,FOLLOW">
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-30065060-1']);
+	  _gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30065060-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
 </head>
 <body>
 <div id="wrapper">
