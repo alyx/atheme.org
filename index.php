@@ -17,11 +17,9 @@
 	<meta name="language" content="English">
 	<meta http-equiv="expires" content="never">
 	<meta name="author" content="Sam Ferry">
-	<meta name="designer" content="Sam Ferry">
-	<meta name="publisher" content="The Atheme Project">
-	<meta name="copyright" content="The Atheme Project">
+	<meta name="copyright" content="(c)The Atheme Project">
 	<meta name="description" content="An open-source development collective, dedicated to creating powerful libraries and software for end-user benefit through collaboration and sophistication.">
-	<meta name="keywords" content="the atheme project atheme.org atheme.net irc services charybdis charybdis-ircd ircd client git confluence jira CIA CIA.vc staticbox staticbox.net SystemInPlace nenolod samferry audacious audacious-plugins NASPRO atheme-services atheme-web iris libmowgli libguess MCS libaosd ShadowIRCd UnrealIRCd Debian Linux VPS freenode">
+	<meta name="keywords" content="the atheme project, atheme.org, atheme.net, atheme, irc, irc services, charybdis, charybdis-ircd, ircd, irc client, git, confluence, jira, CIA, CIA.vc, revision control, version control, staticbox, staticbox.net, SystemInPlace, nenolod, samferry, william pitcock, sam ferry, audacious, audacious-plugins, audacious media player, NASPRO, atheme-services, atheme-web, atheme irc services, iris, libmowgli, libguess, MCS, libaosd, ShadowIRCd, UnrealIRCd, Debian, Debian Linux, Linux, UNIX, VPS, Xen, freenode">
 	<meta name="distribution" content="global">
 	<meta name="robots" content="INDEX,FOLLOW">
 	<script type="text/javascript">
