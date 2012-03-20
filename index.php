@@ -96,7 +96,7 @@
 
 	<div id="footer">
 		<div style="float: left;"><? print(date("Y")); ?> &copy; Atheme. All rights reserved.</div>
-		<div style="float: right;"><a href="http://git.atheme.org/atheme.org/">changelog</a> &mdash; <a href="http://www.atheme.org/todo">to-do</a> &mdash; <a href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=UAOgf9DDXzj1xJpkX6wNUzEUGrnDZDs9Zz7-uSVHqqk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=UAOgf9DDXzj1xJpkX6wNUzEUGrnDZDs9Zz7-uSVHqqk=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;">webmaster</a></div>
+		<div style="float: right;"><a href="http://git.atheme.org/atheme.org/" title="Visit the revision backlog">changelog</a> &mdash; <a href="http://jira.atheme.org/browse/WEB" title="To-Do List and Request">todo & requests</a> &mdash; <a href="http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=UAOgf9DDXzj1xJpkX6wNUzEUGrnDZDs9Zz7-uSVHqqk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k=01_KdCrWI_IjA21lIMmtTcxg==&c=UAOgf9DDXzj1xJpkX6wNUzEUGrnDZDs9Zz7-uSVHqqk=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Email the webmaster">webmaster</a></div>
 	</div>
 </div>
 </body>
