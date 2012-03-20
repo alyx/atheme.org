@@ -71,8 +71,13 @@ a:hover, #navbar a:hover {
 	text-decoration: none;
 	border-bottom: none;
 }
+#navbar .active {
+	font-weight: bold;
+}
+#navbar .active:hover {
+	border-bottom: 0;
+}
 
 .italics { font-style: italic; }
-.active, .bold 	 { font-weight: bold;  }
+.bold 	 { font-weight: bold;  }
 
-.active a:hover { border-bottom: none; }
