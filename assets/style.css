@@ -74,3 +74,5 @@ a:hover, #navbar a:hover {
 
 .italics { font-style: italic; }
 .active, .bold 	 { font-weight: bold;  }
+
+.active a:hover { border-bottom: none; }

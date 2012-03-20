@@ -42,9 +42,9 @@
 	</div>
 	<div id="navbar">
 	<ul>
-		<li><a href="http://www.atheme.org/">Home</a></li>
-		<li><a href="http://www.atheme.org/projects">Projects</a></li>
-		<li><a href="http://www.atheme.org/contact">Contact Us</a></li>
+                <li><a href="http://www.atheme.org/"<?php if ($x == "/") echo(' class="active"'); ?>>Home</a></li>
+                <li><a href="http://www.atheme.org/projects"<?php if (strpos($x, "/project") !== false) echo(' class="active"'); ?>>Projects</a></li>
+                <li><a href="http://www.atheme.org/contact"<?php if ($x == "/contact") echo(' class="active"'); ?>>Contact Us</a></li>
 		<li><a href="http://webchat.staticbox.net/?channels=#atheme-project">Webchat</a></li>
 		<li><a href="http://git.atheme.org">Repository</a></li>
 		<li><a href="http://confluence.atheme.org">Wiki</a></li>
