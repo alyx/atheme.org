@@ -42,8 +42,8 @@
 	</div>
 	<div id="navbar">
 	<ul>
-		<li><a href="http://www.atheme.org/">Home</a></li>
-		<li><a href="http://www.atheme.org/projects">Projects</a></li>
+		<li><a href="http://www.atheme.org/" <? if >Home</a></li>
+		<li><a href="http://www.atheme.org/projects"<? if ($_GET['p'] == "projects") { echo 'class="active"'; } ?>>Projects</a></li>
 		<li><a href="http://www.atheme.org/contact">Contact Us</a></li>
 		<li><a href="http://webchat.staticbox.net/?channels=#atheme-project">Webchat</a></li>
 		<li><a href="http://git.atheme.org">Repository</a></li>
