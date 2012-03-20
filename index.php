@@ -63,9 +63,9 @@
 	{
 		if (($_GET["p"] == "projects") && (isset($_GET["sp"])))
 	        {
-                        if (file_exists("pages/projects/" . $_GET["sp"] . ".php"))
+                        if (file_exists("pages/projects/" . strtolower($_GET["sp"]) . ".php"))
                         {
-                                include("pages/projects/" . $_GET["sp"] . ".php");
+                                include("pages/projects/" . strtolower($_GET["sp"]) . ".php");
                         }
                         else
                         {
@@ -75,9 +75,9 @@
                 }
 		else
 		{
-			if (file_exists("pages/" . $_GET["p"] . ".php"))
+			if (file_exists("pages/" . strtolower($_GET["p"]) . ".php"))
 			{
-				include("pages/" . $_GET["p"] . ".php");
+				include("pages/" . strtolower($_GET["p"]) . ".php");
 			}
 			else
 			{
