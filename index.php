@@ -25,6 +25,7 @@
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-30065060-1']);
+	  _gaq.push(['_setDomainName', 'atheme.org']);
 	  _gaq.push(['_trackPageview']);
 
 	  (function() {
