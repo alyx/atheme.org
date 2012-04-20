@@ -52,7 +52,7 @@
 	<div id="dl">
 	<strong>Downloads</strong>
         <ul>
-	<li><a href="http://git.atheme.org/libmowgli-2/snapshot/libmowgli-2.0.0.tar.gz">2.0.0</a></li>
+	<li><a href="http://atheme.org/downloads/libmowgli-2.0.0.tar.gz">2.0.0</a></li>
 	<li><a href="http://distfiles.atheme.org/libmowgli-0.7.1.tgz">0.7.1</a></li>
         <li><a href="http://distfiles.atheme.org/libmowgli-0.7.0.tgz">0.7.0</a></li>
         <li><a href="http://distfiles.atheme.org/libmowgli-0.6.1.tgz">0.6.1</a></li>
