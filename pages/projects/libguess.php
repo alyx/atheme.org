@@ -37,7 +37,7 @@
 	<br /><br /><br />
 
 	<strong>Download the current development branch (requires Git):</strong><br />
-	<span class="cli">$ git clone git://git.atheme.org/libguess.git</span>
+	<span class="cli">$ git clone git://github.com/atheme/libguess.git</span>
 
 	<br /><br /><br />
 
@@ -49,7 +49,7 @@
 	</ul>
 	</div>
 
-	<a href="http://git.atheme.org/libguess" title="libguess"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
+	<a href="http://github.com/atheme/libguess/" title="libguess"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
 
 	</div>
 

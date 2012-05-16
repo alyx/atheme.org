@@ -68,7 +68,7 @@
 	<br /><br /><br />
 
         <strong>Download the current development branch (requires Git):</strong><br />
-        <span class="cli">$ git clone git://git.atheme.org/libmcs.git</span>
+        <span class="cli">$ git clone git://github.com/atheme/libmcs.git</span>
 
         <br /><br /><br />
 
@@ -83,7 +83,7 @@
         </ul>
         </div>
 
-        <a href="http://git.atheme.org/libmcs" title="libmcs"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
+        <a href="http://github.com/atheme/libmcs/" title="libmcs"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
         </div>
 
 

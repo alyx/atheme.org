@@ -7,7 +7,7 @@
 	<div id="features">
 
 	<strong>Download the current development branch (requires Git):</strong><br />
-	<span class="cli">$ git clone git://git.atheme.org/charybdis.git</span>
+	<span class="cli">$ git clone git://github.com/atheme/charybdis.git</span>
 
 	<br /><br /><br />
 
@@ -25,5 +25,5 @@
 	</ul>
 	</div>
 
-	<a href="http://git.atheme.org/charybdis" title="charybdis"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
+	<a href="http://github.com/atheme/charybdis/" title="charybdis"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
 	</div>

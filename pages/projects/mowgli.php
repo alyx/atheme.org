@@ -38,7 +38,7 @@
 	<br />
 
 	<strong>Download the current development branch (requires Git):</strong><br />
-	<span class="cli">$ git clone git://git.atheme.org/libmowgli-2.git</span>
+	<span class="cli">$ git clone git://github.com/atheme/libmowgli-2.git</span>
 
 	<br /><br />
 
@@ -71,5 +71,5 @@
         </ul>
         </div>
 
-        <a href="http://git.atheme.org/libmowgli" title="libmowgli"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
+        <a href="http://github.com/atheme/libmowgli-2/" title="libmowgli"><p style="text-align: center;"><span class="italics bold">Visit the Changelog</span></p></a>
 
