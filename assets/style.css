@@ -3,9 +3,9 @@ body {
 	background: #FFFFFF;
 	/* background: -moz-linear-gradient(top, #CCCCCC, #FFFFFF) no-repeat; */
 	color: #000000;
-	/* font-family: Arial, Helvetica, sans-serif; fuck helvetica */
-	font-family: Trebuchet MS, sans-serif;
-	font-size: 12px;
+	/*font-family: Trebuchet MS, sans-serif; fuck Trebuchet MS*/
+    font-family: GaldeanoRegular, Arial, sans-serif; 
+	font-size: 14.5px;
 	/* text-shadow: #CCCCCC 0.5px 0.5px 1px; */
 }
 #wrapper {

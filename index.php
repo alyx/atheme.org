@@ -12,6 +12,7 @@
 <html>
 <head>
 	<title><?php title(); ?></title>
+    <link rel="stylesheet" href="http://www.atheme.org/assets/galdeano.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="http://www.atheme.org/assets/style.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="http://www.atheme.org/assets/additional.css" type="text/css" media="all" />
 	<meta name="language" content="English">
