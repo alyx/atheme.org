@@ -10,7 +10,7 @@
 	For many development versions of the Atheme projects, check out <a href="http://github.com/atheme/" title="Git">our Git repository</a>.
 </p>
 <p>
-	If you have any suggestions on how to improve the website, contact our webmaster via email, or <a href="http://webchat.staticbox.net/?channels=#atheme-project" title="#atheme-project on StaticBox IRC"><span class="italics bold">locate us on IRC via the webchat or at irc.atheme.org</span></a>.
+	If you have any suggestions on how to improve the website, contact our webmaster via email, or <a href="http://webchat.staticbox.net/?channels=#atheme-project" title="StaticBox IRC"><span class="bold">locate us on IRC via the webchat or at irc.atheme.org.</span></a> See our <a href="http://www.atheme.org/projects" title="Projects">projects page</a> for links to the IRC channels of our different projects.
 	Alternatively, if you have an issue or a suggestion, you can open up an issue at <a href="http://github.com/atheme/atheme.org/issues/"><strong>at the bug tracker</strong></a> and it will be seen and taken care of promptly.
 </p>
 <p>

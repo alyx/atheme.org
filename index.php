@@ -46,7 +46,7 @@
                 <li><a href="http://www.atheme.org/"<?php if ($x == "/") echo(' class="active"'); ?>>Home</a></li>
                 <li><a href="http://www.atheme.org/projects"<?php if (strpos($x, "/project") !== false) echo(' class="active"'); ?>>Projects</a></li>
                 <li><a href="http://www.atheme.org/contact"<?php if ($x == "/contact") echo(' class="active"'); ?>>Contact Us</a></li>
-		<li><a href="http://webchat.staticbox.net/?channels=#atheme-project">Webchat</a></li>
+		<!--<li><a href="http://webchat.staticbox.net/?channels=#atheme-project">Webchat</a></li>-->
 		<li><a href="http://github.com/atheme/">Repository</a></li>
 		<li><a href="http://distfiles.atheme.org">Files</a></li>
 		<li><a href="http://cia.vc">CIA</a></li>
